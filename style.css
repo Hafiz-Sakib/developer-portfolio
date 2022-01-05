@@ -51,6 +51,7 @@ h2 {
   margin-left: 5%;
   margin-right: 5%;
   padding-left: 20px;
+  padding-right: 20px;
   border-radius: 4%;
 }
 .experience-zone {
@@ -70,4 +71,7 @@ h2 {
 }
 footer p {
   text-align: center;
+}
+#ex {
+  text-align: justify;
 }
